@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1604087271 source:c:\users\sandn\onedrive\desktop\sardar\c\framesynchronization\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1606926304 source:c:\users\me\desktop\c\framesynchronization\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1618965583 source:c:\users\sandn\desktop\c\framesynchronization\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1624452435 source:d:\sardar\framesynchronization\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
